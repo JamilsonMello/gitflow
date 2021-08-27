@@ -1,1 +1,1 @@
-console.log('initial repository')
+console.log('initial...')
